@@ -1,8 +1,8 @@
-Clases abstractas en Java
+**Clases abstractas en Java.**
 Este proyecto, realizado en Java utilizando IntelliJ IDEA, tiene como objetivo practicar el uso de clases abstractas en Java, específicamente en el contexto de la creación de elementos HTML para su consumo en un navegador web.
 
-Elementos de HTML
-Los elementos de HTML que se están implementando son: input, select, y textarea.
+**Elementos de HTML**
+*Los elementos de HTML que se están implementando son: input, select, y textarea.
 
 1. Clase abstracta ElementoForm
 Contiene los atributos valor y nombre.
@@ -33,8 +33,8 @@ Clase NumeroValidador
 Valida que se ingrese un número.
 Clase RequeridoValidador
 No permite que el campo esté vacío.
-Contribuciones
-  - Se reciben aportes y contribuciones para mejorar este proyecto. 
-  - Si tienes sugerencias, correcciones o nuevas características que agregar.
+**Contribuciones**  
+- Se reciben aportes y contribuciones para mejorar este proyecto. 
+- Si tienes sugerencias, correcciones o nuevas características que agregar.
 
 
